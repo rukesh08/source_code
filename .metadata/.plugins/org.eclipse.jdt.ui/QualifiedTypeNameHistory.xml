@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="jakarta.persistence.EnumType"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
-    <fullyQualifiedTypeName name="java.sql.Date"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.ElementCollection"/>
-    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
-</qualifiedTypeNameHistroy>
